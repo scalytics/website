@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="684c662e-1d2d-48f3-aaf4-e9a3cc863ade" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ro-pardo &lt;ro.pardo.meza@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aAkMjT6upLlITjHM52n9uNUYjQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rodrigo\Development\ScalyticsWebPage" />
+      <recent name="C:\Users\Rodrigo\Development\ScalyticsWebPage\assets\images\prv\other" />
+      <recent name="C:\Users\Rodrigo\Desktop\Scalytics Chile\demos\Scalytics" />
+      <recent name="C:\Users\Rodrigo\Desktop\Scalytics Chile\assets\images\prv\people" />
+      <recent name="C:\Users\Rodrigo\Desktop\Scalytics Chile\assets\images\prv\other" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rodrigo\Desktop\Scalytics Chile\assets\images\prv\people" />
+      <recent name="C:\Users\Rodrigo\Desktop\Scalytics Chile\assets\images\prv\other" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="684c662e-1d2d-48f3-aaf4-e9a3cc863ade" name="Default Changelist" comment="" />
+      <created>1586185739472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586185739472</updated>
+      <workItem from="1586185741771" duration="23876000" />
+      <workItem from="1586381818862" duration="12612000" />
+      <workItem from="1586538036448" duration="11336000" />
+      <workItem from="1586638462610" duration="23935000" />
+      <workItem from="1586712633680" duration="10974000" />
+      <workItem from="1586743466444" duration="260000" />
+      <workItem from="1586795778057" duration="3800000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding temporal messages as Cases of use">
+      <created>1586743675503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586743675503</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Code Reorganized">
+      <created>1586799586301</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586799586301</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding temporal messages as Cases of use" />
+    <MESSAGE value="Code Reorganized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Reorganized" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="0" width="1360" height="1014" key="CommitChangelistDialog2" timestamp="1586799662312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="306" y="0" width="1360" height="1014" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586799662312" />
+    <state x="210" y="73" key="DiffContextDialog" timestamp="1586799400924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="210" y="73" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586799400924" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586382133919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586382133919" />
+    <state x="765" y="133" key="RollbackChangesDialog" timestamp="1586799384874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="133" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586799384874" />
+    <state x="373" y="233" key="SettingsEditor" timestamp="1586196795089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="373" y="233" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586196795089" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1586799613651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586799613651" />
+  </component>
+</project>
